@@ -6,7 +6,7 @@ import (
 	"github.com/lbryio/lbry.go/v2/extras/errors"
 	"github.com/lbryio/lbry.go/v2/stream"
 
-	"github.com/lbryio/reflector.go/internal/metrics"
+	"github.com/irmf/reflector.go/internal/metrics"
 )
 
 // CachingStore combines two stores, typically a local and a remote store, to improve performance.

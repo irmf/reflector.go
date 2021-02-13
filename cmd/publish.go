@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/lbryio/reflector.go/publish"
+	"github.com/irmf/reflector.go/publish"
 
 	"github.com/lbryio/lbry.go/v2/lbrycrd"
 

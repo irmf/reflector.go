@@ -9,12 +9,12 @@ import (
 
 	"github.com/lbryio/lbry.go/v2/dht"
 	"github.com/lbryio/lbry.go/v2/dht/bits"
-	"github.com/lbryio/reflector.go/cluster"
-	"github.com/lbryio/reflector.go/db"
-	"github.com/lbryio/reflector.go/peer"
-	"github.com/lbryio/reflector.go/prism"
-	"github.com/lbryio/reflector.go/reflector"
-	"github.com/lbryio/reflector.go/store"
+	"github.com/irmf/reflector.go/cluster"
+	"github.com/irmf/reflector.go/db"
+	"github.com/irmf/reflector.go/peer"
+	"github.com/irmf/reflector.go/prism"
+	"github.com/irmf/reflector.go/reflector"
+	"github.com/irmf/reflector.go/store"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

@@ -3,7 +3,7 @@ package store
 import (
 	"time"
 
-	"github.com/lbryio/reflector.go/internal/metrics"
+	"github.com/irmf/reflector.go/internal/metrics"
 
 	"github.com/lbryio/lbry.go/v2/stream"
 

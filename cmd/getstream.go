@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/lbryio/reflector.go/peer"
-	"github.com/lbryio/reflector.go/store"
+	"github.com/irmf/reflector.go/peer"
+	"github.com/irmf/reflector.go/store"
 
 	"github.com/lbryio/lbry.go/v2/stream"
 

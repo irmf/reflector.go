@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/lbryio/reflector.go/meta"
+	"github.com/irmf/reflector.go/meta"
 
 	"github.com/inconshreveable/go-update"
 	"github.com/sirupsen/logrus"

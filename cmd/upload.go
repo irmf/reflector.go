@@ -5,9 +5,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/lbryio/reflector.go/db"
-	"github.com/lbryio/reflector.go/reflector"
-	"github.com/lbryio/reflector.go/store"
+	"github.com/irmf/reflector.go/db"
+	"github.com/irmf/reflector.go/reflector"
+	"github.com/irmf/reflector.go/store"
 
 	"github.com/spf13/cobra"
 )

@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lbryio/reflector.go/internal/metrics"
-	"github.com/lbryio/reflector.go/meta"
+	"github.com/irmf/reflector.go/internal/metrics"
+	"github.com/irmf/reflector.go/meta"
 
 	"github.com/lbryio/lbry.go/v2/extras/errors"
 	"github.com/lbryio/lbry.go/v2/stream"

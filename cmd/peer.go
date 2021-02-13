@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/lbryio/reflector.go/db"
-	"github.com/lbryio/reflector.go/peer"
-	"github.com/lbryio/reflector.go/store"
+	"github.com/irmf/reflector.go/db"
+	"github.com/irmf/reflector.go/peer"
+	"github.com/irmf/reflector.go/store"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

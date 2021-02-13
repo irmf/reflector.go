@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/lbryio/reflector.go/cmd"
+	"github.com/irmf/reflector.go/cmd"
 
 	"github.com/google/gops/agent"
 	log "github.com/sirupsen/logrus"

@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/lbryio/reflector.go/wallet"
+	"github.com/irmf/reflector.go/wallet"
 
 	"github.com/spf13/cobra"
 )

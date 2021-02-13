@@ -8,10 +8,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lbryio/reflector.go/meta"
-	"github.com/lbryio/reflector.go/peer"
-	"github.com/lbryio/reflector.go/reflector"
-	"github.com/lbryio/reflector.go/store"
+	"github.com/irmf/reflector.go/meta"
+	"github.com/irmf/reflector.go/peer"
+	"github.com/irmf/reflector.go/reflector"
+	"github.com/irmf/reflector.go/store"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

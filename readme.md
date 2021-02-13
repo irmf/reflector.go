@@ -16,7 +16,7 @@ coming soon
 This project requires [Go v1.11](https://golang.org/doc/install) or higher because it uses Go modules.
 
 ```
-git clone git@github.com:lbryio/reflector.go.git
+git clone git@github.com:irmf/reflector.go.git
 cd reflector.go
 make
 ./bin/prism-bin

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/lbryio/reflector.go/store"
+	"github.com/irmf/reflector.go/store"
 )
 
 var blobs = map[string][]byte{

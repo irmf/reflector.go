@@ -2,7 +2,7 @@ BINARY=prism-bin
 
 DIR = $(shell cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd)
 BIN_DIR = ${DIR}/bin
-IMPORT_PATH = github.com/lbryio/reflector.go
+IMPORT_PATH = github.com/irmf/reflector.go
 
 VERSION = $(shell git --git-dir=${DIR}/.git describe --dirty --always --long --abbrev=7)
 LDFLAGS = -ldflags "-X ${IMPORT_PATH}/meta.Version=${VERSION} -X ${IMPORT_PATH}/meta.Time=$(shell date +%s)"

@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/lbryio/reflector.go/reflector"
+	"github.com/irmf/reflector.go/reflector"
 
 	"github.com/lbryio/lbry.go/v2/extras/errors"
 	"github.com/lbryio/lbry.go/v2/lbrycrd"
